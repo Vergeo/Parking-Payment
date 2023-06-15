@@ -1,0 +1,14 @@
+{
+	"admin1" : {
+		"password" : "123456",
+		"rank" : "admin"
+	},
+	"admin2" : {
+		"password" : "qwerty",
+		"rank" : "admin"
+	},
+	"1" : {
+		"password" : "1",
+		"rank" : "staff"
+	}
+}
